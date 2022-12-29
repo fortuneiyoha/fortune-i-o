@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning - SCSS, Javascript, Bootstrap and Python.
 - 📫 How to reach me:
 - Website: [fortune-io-socials](https://fortune-io-socials.pages.dev/ "Fortune O. Iyoha | Socials")
-- LinkedIn: [Fortune O. Iyoha](https://www.linkedin.com/in/fortune-i-o/ "fortune-i-o | LinkedIn")
+- LinkedIn: [Fortune O. Iyoha](https://www.linkedin.com/in/fortune-i-o/ "Fortune O. Iyoha | LinkedIn")
 
 <!---
 fortune-i-o/fortune-i-o is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
