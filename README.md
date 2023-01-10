@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fortune-i-o
 - 👀 I’m interested in Full Stack Web Development.
-- 🌱 I’m currently learning - SCSS, Javascript, Bootstrap and Python.
+- 🌱 I’m currently learning - SCSS, Javascript.
 - 📫 How to reach me:
 - Website: [fortune-io-socials](https://fortune-io-socials.pages.dev/ "Fortune O. Iyoha | Socials")
 - LinkedIn: [Fortune O. Iyoha](https://www.linkedin.com/in/fortune-i-o/ "Fortune O. Iyoha | LinkedIn")
