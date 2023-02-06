@@ -11,14 +11,14 @@
 
 ### Connect with me
 
-[![website](./img/twitter-light.svg)](https://twitter.com/fortune_oi#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/fortune_oi#gh-dark-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/fortune_oi#gh-light-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/fortune_oi#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/fortune-i-o#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/fortune-i-o#gh-dark-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/fortune-i-o#gh-light-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/fortune-i-o#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/fortune.i.o#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/fortune.i.o#gh-dark-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/fortune.i.o#gh-light-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/fortune.i.o#gh-dark-mode-only)
 
 ### Languages and Tools
 
