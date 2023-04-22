@@ -16,14 +16,14 @@
 [![website](./img/globe-dark.svg)](https://fortune-io-socials.pages.dev#gh-dark-mode-only "Fortune O. Iyoha | Socials")
 [![website](./img/globe-light.svg)](https://fortune-io-socials.pages.dev#gh-light-mode-only "Fortune O. Iyoha | Socials")
 &nbsp;&nbsp;
-[![website](./img/twitter-dark.svg)](https://twitter.com/fortune_oi#gh-dark-mode-only "Fortune O. Iyoha | Twitter")
-[![website](./img/twitter-light.svg)](https://twitter.com/fortune_oi#gh-light-mode-only "Fortune O. Iyoha | Twitter")
+[![website](./img/twitter-dark.svg)](https://twitter.com/fortuneiyoha#gh-dark-mode-only "Fortune O. Iyoha | Twitter")
+[![website](./img/twitter-light.svg)](https://twitter.com/fortuneiyoha#gh-light-mode-only "Fortune O. Iyoha | Twitter")
 &nbsp;&nbsp;
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/fortune-iyoha#gh-dark-mode-only "Fortune Iyoha | LinkedIn")
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/fortune-iyoha#gh-light-mode-only "Fortune Iyoha | LinkedIn")
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/fortuneiyoha#gh-dark-mode-only "Fortune Iyoha | LinkedIn")
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/fortuneiyoha#gh-light-mode-only "Fortune Iyoha | LinkedIn")
 &nbsp;&nbsp;
-[![website](./img/instagram-dark.svg)](https://instagram.com/fortune.i.o#gh-dark-mode-only "Fortune Iyoha | Instagram")
-[![website](./img/instagram-light.svg)](https://instagram.com/fortune.i.o#gh-light-mode-only "Fortune Iyoha | Instagram")
+[![website](./img/instagram-dark.svg)](https://instagram.com/fortuneiyoha#gh-dark-mode-only "Fortune Iyoha | Instagram")
+[![website](./img/instagram-light.svg)](https://instagram.com/fortuneiyoha#gh-light-mode-only "Fortune Iyoha | Instagram")
 
 ### Languages and Tools
 
@@ -38,7 +38,7 @@
 
 ---
 
-<details>
+<details open>
   <summary>⚡ GitHub Stats</summary>
 
 ![Fortune's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fortune-i-o&show_icons=true&hide=contribs,issues)
@@ -46,7 +46,7 @@
 </details>
   
   
-<details>
+<details open>
 
 <summary>⚡ Most used Languages</summary>
 
@@ -55,7 +55,7 @@
 </details>
 
 [frontendmentor]: https://www.frontendmentor.io/profile/fortune-i-o
-[instagram]: https://instagram.com/fortune.i.o
-[linkedin]: https://linkedin.com/in/fortune-iyoha
-[twitter]: https://twitter.com/fortune_oi
+[instagram]: https://instagram.com/fortuneiyoha
+[linkedin]: https://linkedin.com/in/fortuneiyoha
+[twitter]: https://twitter.com/fortuneiyoha
 [socials]: https://fortune-io-socials.pages.dev/
