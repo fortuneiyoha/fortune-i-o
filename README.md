@@ -3,7 +3,7 @@
 ## I'm a Student, Developer
 
 - 👯 I’m looking to collaborate on **open-source projects**.
-- 📖 Goals: Improve my skills in **JavaScript**. 
+- 📖 Goals: Improve my skills in **JavaScript**.
 - 🔍 You can check out my work on [**Frontend Mentor**][frontendmentor].
 - 🌐 You can reach me on my [**Socials**][socials].
 
@@ -33,15 +33,15 @@
 <img  alt="sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />&nbsp;
 <img  alt="javascript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 &nbsp;
-[<img alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" />](https://github.com/fortune-i-o#gh-dark-mode-only "Fortune O. Iyoha | GitHub")
-[<img alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" />](https://github.com/fortune-i-o#gh-light-mode-only "Fortune O. Iyoha | GitHub")
+[<img alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" />](https://github.com/fortuneiyoha#gh-dark-mode-only "Fortune O. Iyoha | GitHub")
+[<img alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" />](https://github.com/fortuneiyoha#gh-light-mode-only "Fortune O. Iyoha | GitHub")
 
 ---
 
 <details open>
   <summary>⚡ GitHub Stats</summary>
 
-![Fortune's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fortune-i-o&show_icons=true&hide=contribs,issues)
+![Fortune's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fortuneiyoha&show_icons=true&hide=contribs,issues)
 
 </details>
   
@@ -50,7 +50,7 @@
 
 <summary>⚡ Most used Languages</summary>
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=fortune-i-o&layout=compact&show_icons=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=fortuneiyoha&layout=compact&show_icons=true)
 
 </details>
 
