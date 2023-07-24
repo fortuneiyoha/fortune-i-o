@@ -54,6 +54,9 @@
 
 </details>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fortuneiyoha&label=Profile%20views&color=0e75b6&style=flat" alt="Fortune Iyoha" /></p>
+
+
 [frontendmentor]: https://www.frontendmentor.io/profile/fortune-i-o
 [instagram]: https://instagram.com/fortuneiyoha
 [linkedin]: https://linkedin.com/in/fortuneiyoha
