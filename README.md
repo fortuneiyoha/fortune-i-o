@@ -54,7 +54,7 @@
 
 </details>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fortuneiyoha&label=Profile%20views&color=0e75b6&style=flat" alt="Fortune Iyoha" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fortuneiyoha&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /></p>
 
 
 [frontendmentor]: https://www.frontendmentor.io/profile/fortune-i-o
